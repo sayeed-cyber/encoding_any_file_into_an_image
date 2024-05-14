@@ -38,7 +38,7 @@ The script reads the binary data of the input file and divides it into chunks. E
 ## Requirements
 
 - Python 3.9
-- PIL (Python Imaging Library) - Version X.X.X
+- PIL (Python Imaging Library)
 
 
 
