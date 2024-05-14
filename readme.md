@@ -7,9 +7,7 @@ This project enables encoding any type of file into images and decoding them bac
 - [Applications](#applications)
 - [How it Works](#how-it-works)
 - [Requirements](#requirements)
-- [Usage](#usage)
-- [Future Enhancements](#future-enhancements)
-- [License](#license)
+
 
 ## Introduction
 
@@ -31,39 +29,7 @@ The script reads the binary data of the input file and divides it into chunks. E
 - Python 3.9
 - PIL (Python Imaging Library) - Version X.X.X
 
-## Usage
 
-1. Clone this repository:
-
-```bash
-git clone https://github.com/your_username/file-to-image.git
-
-
-
-
-
-
-
-
-# Navigate to the project directory
-
-cd file-to-image
-
-# Install the required dependencies
-
-pip install -r requirements.txt
-
-# Run the appropriate script for encoding or decoding
-
-## Encoding
-python encode.py input_file output_directory
-# input_file: Path to the file you want to encode.
-# output_directory: Directory where the generated images will be saved.
-
-## Decoding
-python decode.py input_directory output_file
-# input_directory: Directory containing the encoded images.
-# output_file: Path to save the decoded file.
 
 # Future Enhancements
 
