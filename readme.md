@@ -50,3 +50,26 @@ The script reads the binary data of the input file and divides it into chunks. E
 - GUI: Develop a user-friendly graphical interface for easier interaction with the tool.
 - Error Handling: Enhance error handling mechanisms to provide more informative feedback during encoding and decoding processes.
 - Performance Tuning: Investigate methods to optimize processing time and resource usage.
+
+
+
+
+
+
+## Ethical Considerations
+
+### Responsible Use
+
+This project is intended for research, educational, and entertainment purposes. It should not be used for unauthorized access, distribution of copyrighted materials without permission, or any illegal activities.
+
+### Privacy and Data Security
+
+When using this tool, ensure that you have appropriate permissions to convert and reconstruct files. Respect the privacy and confidentiality of sensitive information. Avoid transmitting sensitive data over insecure channels or networks.
+
+### Transparency and Accountability
+
+The developers and contributors to this project encourage transparency and accountability in its use. Users are encouraged to report any misuse or ethical concerns related to the project.
+
+## Disclaimer
+
+This project is provided as-is without warranty of any kind. The developers are not responsible for any misuse, damage, or legal implications resulting from the use of this software.
